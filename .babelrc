@@ -1,0 +1,5 @@
+
+//Esta config es para que babel detecte lo que tiene que hacer y convertir el codigo de JS. Es para compatibilidad con versiones anteriores de JS.
+{
+  "presets":["@babel/preset-env"]
+}
